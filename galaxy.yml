@@ -1,0 +1,9 @@
+---
+namespace: bnc
+name: distro
+version: 0.1.0
+readme: README.md
+description: Ansible collection to interact with Ansible Distro API
+license_file: LICENSE
+dependencies: {}
+repository: https://github.com/bnc-ch/bnc.distro
